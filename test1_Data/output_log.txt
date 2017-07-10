@@ -1,0 +1,282 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.832382 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4210 -> priority: 1 
+  Thread -> id: 2ec -> priority: 1 
+  Thread -> id: 2f8c -> priority: 1 
+  Thread -> id: 2fd8 -> priority: 1 
+Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   22.21.13.8476
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Stefan\Dropbox\Projects\UnityNode\UnityNode\test1_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.789715 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 371c -> priority: 1 
+  Thread -> id: 2630 -> priority: 1 
+  Thread -> id: 3e24 -> priority: 1 
+  Thread -> id: 34f4 -> priority: 1 
+spawned{"id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server is requesting position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+spawned{"id":"H1Yw2wxrb","x":0,"y":0}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+count: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Updating position: {"x":"0","y":"0","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"-2.337741", "y":"-0.7864048"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"-2.337741","y":"-0.7864048","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"-2.110224", "y":"-2.125273"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"-2.110224","y":"-2.125273","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"0.8676788", "y":"-1.911098"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"0.8676788","y":"-1.911098","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"-2.719857", "y":"2.24683"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"-2.719857","y":"2.24683","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"2.336078", "y":"0.3447575"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"2.336078","y":"0.3447575","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"1.948891", "y":"-3.381182"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"1.948891","y":"-3.381182","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"-2.246486", "y":"-4.329108"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"-2.246486","y":"-4.329108","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"-3.771496", "y":"-1.71338"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"-3.771496","y":"-1.71338","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"-0.2057307", "y":"-1.61181"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"-0.2057307","y":"-1.61181","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"0.505823", "y":"2.92448"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"0.505823","y":"2.92448","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"1.656257", "y":"-4.224936"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"1.656257","y":"-4.224936","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"-1.863656", "y":"-4.53005"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"-1.863656","y":"-4.53005","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"4.481692", "y":"-1.76348"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"4.481692","y":"-1.76348","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"2.135361", "y":"-0.989696"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"2.135361","y":"-0.989696","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"-3.217408", "y":"3.233937"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"-3.217408","y":"3.233937","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"1.082188", "y":"-1.935317"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"1.082188","y":"-1.935317","id":"H1Yw2wxrb"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"0.1546515", "y":"-1.586125"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"0.1546515","y":"-1.586125","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"1.787711", "y":"-2.194809"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"1.787711","y":"-2.194809","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"1.471709", "y":"-3.100531"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"1.471709","y":"-3.100531","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"1.184016", "y":"2.063803"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"1.184016","y":"2.063803","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"0.06677867", "y":"-4.087184"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"0.06677867","y":"-4.087184","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+sending position to node{"x":"1.846573", "y":"-4.13359"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player is moving{"x":"1.846573","y":"-4.13359","id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+player disconnected: {"id":"B1mu2DeH-"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
